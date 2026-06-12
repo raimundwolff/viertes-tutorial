@@ -1,0 +1,14 @@
+# Betriebssystem
+.DS_Store
+Thumbs.db
+
+# Abhängigkeiten
+node_modules
+
+# Umgebungsvariablen und Secrets
+.env
+.env_local
+
+# Build-Ausgaben
+dist/
+build/
